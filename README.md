@@ -55,5 +55,13 @@ This repository contains my Python learning journey 🚀
 - program to understand set properties
 - program to understand tuple operations
 
+## Completed (Day_8)
+- Practice set 8 ✅
+
+## Programs
+- program to understand the concept of dictionary
+- program to understand dictionary methods
+- program for operations of dictionary
+
   
    
