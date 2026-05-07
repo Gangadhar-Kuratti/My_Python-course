@@ -73,5 +73,15 @@ This repository contains my Python learning journey 🚀
 - program to print the grades based on marks
 - program to check the password entered by user
 
+## Completed (Day_10)
+- Practice set 10 ✅
+
+## Programs
+- program to understand the if-else
+- program to understand the if-elif-else
+- program to understand the if-if condition
+- program to understand the > operator
+- program to understand nestef if condition
+
   
    
