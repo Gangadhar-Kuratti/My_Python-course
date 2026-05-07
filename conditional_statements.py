@@ -48,7 +48,7 @@ elif marks>=50:
 else:
     print("Grade : F")            
 
-#program to check the password entered by user
+# program to check the password entered by user
 
 username=input("Enter username: ")
 password=int(input("Enter password: "))
