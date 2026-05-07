@@ -63,5 +63,15 @@ This repository contains my Python learning journey 🚀
 - program to understand dictionary methods
 - program for operations of dictionary
 
+## Completed (Day_9)
+- Practice set 9 ✅
+
+## Programs
+- program to check the number is even or odd
+- program to check whether entered number is positive ,negative or zero
+- program to find the largest of three numbers
+- program to print the grades based on marks
+- program to check the password entered by user
+
   
    
