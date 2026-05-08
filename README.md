@@ -83,5 +83,14 @@ This repository contains my Python learning journey 🚀
 - program to understand the > operator
 - program to understand nestef if condition
 
+## Completed (Day_11)
+- Prctice set 11 ✅
+
+## Programs
+- program to understand the if-elif statements
+- program to understand the flow of conditional statements
+- program to understand the elif statements
+- program to perform the arithmetic operation using conditional statements
+
   
    
