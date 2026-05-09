@@ -92,5 +92,14 @@ This repository contains my Python learning journey 🚀
 - program to understand the elif statements
 - program to perform the arithmetic operation using conditional statements
 
+## Completed (Day_12)
+- Practice set 12 ✅
+
+## Programs
+- program  to print the even numbers using while loop
+- program to print the odd numbers using while loop
+- program for small ATM application using while loop and if condition
+- program to guess the correct the number
+
   
    
