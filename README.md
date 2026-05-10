@@ -101,5 +101,15 @@ This repository contains my Python learning journey 🚀
 - program for small ATM application using while loop and if condition
 - program to guess the correct the number
 
+## Completed (Day_13)
+- Practice set 13 ✅
+
+## Programs
+- program to print numbers using while loop
+- program to print reverse numbers using while loop
+- program to print even numbers between 1-20
+- program to print sum of first 10 numbers
+- program to print multiplication table of a number
+
   
    
