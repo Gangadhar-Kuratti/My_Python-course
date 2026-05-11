@@ -111,5 +111,12 @@ This repository contains my Python learning journey 🚀
 - program to print sum of first 10 numbers
 - program to print multiplication table of a number
 
+## Completed (Day_14)
+- Practice set 14 ✅
+
+## Programs
+- program to count the even numbers
+- program to print the numbers divisible by 3 and 5
+- program to print the factorial of a number
   
    
