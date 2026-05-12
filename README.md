@@ -118,5 +118,15 @@ This repository contains my Python learning journey 🚀
 - program to count the even numbers
 - program to print the numbers divisible by 3 and 5
 - program to print the factorial of a number
+
+## Completed (Day_15)
+- Practice set 15 ✅
+
+## Programs
+- program to print the square numbers
+- programto print the cube numbers
+- program to print the sum of even numbers from 1-10
+- program to count the factors of between 1-100
+- program to find the product of numbers from 1-5
   
    
