@@ -128,5 +128,12 @@ This repository contains my Python learning journey 🚀
 - program to print the sum of even numbers from 1-10
 - program to count the factors of between 1-100
 - program to find the product of numbers from 1-5
-  
+
+## Compelted (Day_16)
+- Practice set 16 ✅
+
+## Programs
+- program to print the sum of even numbers entered by the user
+- program to print the count of +ve,-veand null values entered by the user
+- program to take input until user enters 0 and print the sum of numbers entered
    
