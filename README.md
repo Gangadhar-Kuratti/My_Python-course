@@ -136,4 +136,11 @@ This repository contains my Python learning journey 🚀
 - program to print the sum of even numbers entered by the user
 - program to print the count of +ve,-veand null values entered by the user
 - program to take input until user enters 0 and print the sum of numbers entered
+
+## Completed (Day_17)
+- Practice set 17 ✅
+
+# Programs
+- program to print the star pattern
+- program to print the reverse star pattern
    
