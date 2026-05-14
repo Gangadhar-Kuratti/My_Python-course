@@ -34,11 +34,11 @@ while i<=3:
     else:
             print("Incorrect")
             
-# program to guess the 1correct the number
+# program to guess the correct the number
 
 number=7
 while True:
-    num=int(input("Enter number: "))
+    num=int(input("Guess a number: "))
     if num<number:
             print("LITTLE HIGHER")
     elif num>number:
