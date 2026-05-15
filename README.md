@@ -143,4 +143,10 @@ This repository contains my Python learning journey 🚀
 # Programs
 - program to print the star pattern
 - program to print the reverse star pattern
+
+## Completed (Day_18)
+- Practice set 18 ✅
+
+## Project
+- A project namedm 'expense trackor' using the concept of loops,dictionaries and lists
    
