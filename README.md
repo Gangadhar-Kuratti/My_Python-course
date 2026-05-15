@@ -148,5 +148,5 @@ This repository contains my Python learning journey 🚀
 - Practice set 18 ✅
 
 ## Project
-- A project named 'expense trackor' using the concept of loops,dictionaries and lists
+- A project named 'expense trackor' using the concept of loops,dictionaries and lists which tracks our daily expenditure
    
