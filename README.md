@@ -158,5 +158,5 @@ This repository contains my Python learning journey 🚀
 - program to print the tables of a number using for loop
 - program to print the sum of numbers between 1-10 using for loop
 - program to print the product of numbers between 1-5 using for loop
-- program to print the character of given string
+- program to print the characters of given string
    
