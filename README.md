@@ -149,4 +149,14 @@ This repository contains my Python learning journey 🚀
 
 ## Project
 - A project named 'expense trackor' using the concept of loops,dictionaries and lists which tracks our daily expenditure
+
+## Completed (Day_19)
+- Practice set 19 ✅
+
+## Programs
+- program to print the even numbers from 1-20 using for loop
+- program to print the tables of a number using for loop
+- program to print the sum of numbers between 1-10 using for loop
+- program to print the product of numbers between 1-5 using for loop
+- program to print the character of given string
    
