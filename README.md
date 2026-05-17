@@ -1,6 +1,6 @@
 # Python Practice by GANGADHAR
 
-This repository contains my Python learning journey 🚀
+This repository contains My Python learning journey 🚀
 
 ## Completed (Day_1)
 - Practice Set 1 ✅
