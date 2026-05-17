@@ -159,4 +159,13 @@ This repository contains My Python learning journey 🚀
 - program to print the sum of numbers between 1-10 using for loop
 - program to print the product of numbers between 1-5 using for loop
 - program to print the characters of given string
+
+## Completed (Day_20)
+- Practice set 20 ✅
+
+## Programs
+- program to print the character position times the character
+- program to print the combined list of dictionaries
+- program to print the combined list of dictionaries using 'len' function
+- program to understand the dictionary compreesion
    
