@@ -33,7 +33,7 @@ while True:
             for e in expences:
                 print(f"{i}. {e['date']} | {e['category']} | {e['description']} | {e['total_amount']}")   
                 i+=1
-                print("=====================================") 
+                print("---------------------------------------------") 
     
     elif choice==3:
         total=0
