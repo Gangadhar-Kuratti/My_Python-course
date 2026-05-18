@@ -168,4 +168,12 @@ This repository contains My Python learning journey 🚀
 - program to print the combined list of dictionaries
 - program to print the combined list of dictionaries using 'len' function
 - program to understand the dictionary compreesion
+
+## Completed (Day_21)
+- Practice set 21 ✅
+
+## Programs
+- program to understand the list comprehension
+- program to understand the dictionary comprehension
+- 
    
