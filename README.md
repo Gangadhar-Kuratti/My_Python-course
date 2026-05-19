@@ -175,5 +175,10 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to understand the list comprehension
 - program to understand the dictionary comprehension
-- 
+
+## Completed (Day_22)
+- Practice set 22 ✅
+
+## Programs
+- program to print the combined list of dictionaries 
    
