@@ -180,5 +180,11 @@ This repository contains My Python learning journey 🚀
 - Practice set 22 ✅
 
 ## Programs
-- program to print the combined list of dictionaries 
+- program to print the combined list of dictionaries
+
+## Completd (Day_23)
+- Practice set 23 ✅
+
+## Program
+- program to understand the dictionary compreesion
    
