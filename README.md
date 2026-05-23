@@ -193,4 +193,10 @@ This repository contains My Python learning journey 🚀
 
 ## Programs
 - largest of three without using max()
-   
+
+## Completed (Day_25)
+- Practice set 25 ✅
+
+## Programs
+- program to create rectangle using Tkinter
+- program to create line using Tkinter
