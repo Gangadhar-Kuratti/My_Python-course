@@ -187,4 +187,10 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand the dictionary compreesion
+
+## Completed (Day_24)
+- Practice set 24 ✅
+
+## Programs
+- largest of three without using max()
    
