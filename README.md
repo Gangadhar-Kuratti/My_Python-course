@@ -200,3 +200,9 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to create rectangle using Tkinter
 - program to create line using Tkinter
+
+## Completed (Day_26)
+- Practce set 26 ✅
+
+## Programs
+- program to understand the concepts of shapes using tkinter
