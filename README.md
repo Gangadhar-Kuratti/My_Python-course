@@ -206,3 +206,9 @@ This repository contains My Python learning journey 🚀
 
 ## Programs
 - program to understand the concepts of shapes using tkinter
+
+## Completed (Day_27)
+- Practice set 27 ✅
+
+## Programs
+- program to understand the concepts of dictionary,conditinal statements and lists
