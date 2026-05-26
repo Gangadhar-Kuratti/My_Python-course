@@ -212,3 +212,9 @@ This repository contains My Python learning journey 🚀
 
 ## Programs
 - program to understand the concepts of dictionary,conditinal statements and lists
+
+## Completed (Day_28)
+- Practice set 28 ✅
+
+## Program
+- program to understand the array indexing and array slicing
