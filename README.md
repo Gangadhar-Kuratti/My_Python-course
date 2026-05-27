@@ -218,3 +218,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand the array indexing and array slicing
+
+## Completed (Day_39)
+- Practice set 29 ✅
+
+## Program
+- program to understand the nested conditional statements
