@@ -219,7 +219,7 @@ This repository contains My Python learning journey 🚀
 ## Program
 - program to understand the array indexing and array slicing
 
-## Completed (Day_39)
+## Completed (Day_29)
 - Practice set 29 ✅
 
 ## Program
