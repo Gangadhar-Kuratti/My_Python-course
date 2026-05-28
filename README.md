@@ -224,3 +224,10 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand the nested conditional statements
+
+## Completed (Day_30)
+- Practice set 30  ✅
+
+## Programs
+- program to print the pyramid star pattern
+- program to print the number pattern
