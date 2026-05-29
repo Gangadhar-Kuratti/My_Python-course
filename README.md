@@ -226,8 +226,15 @@ This repository contains My Python learning journey 🚀
 - program to understand the nested conditional statements
 
 ## Completed (Day_30)
-- Practice set 30  ✅
+- Practice set 30 ✅
 
 ## Programs
 - program to print the pyramid star pattern
 - program to print the number pattern
+
+## Completed (Day_31)
+- Practice set ✅
+
+## Programs
+- program for list comprehension using for loop
+- program for dictionary comprehension usong for loop
