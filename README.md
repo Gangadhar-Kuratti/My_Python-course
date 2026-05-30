@@ -233,8 +233,15 @@ This repository contains My Python learning journey 🚀
 - program to print the number pattern
 
 ## Completed (Day_31)
-- Practice set ✅
+- Practice set 31 ✅
 
 ## Programs
 - program for list comprehension using for loop
 - program for dictionary comprehension usong for loop
+
+## Completed (Day_32)
+- Practice set 32 ✅
+
+## Programs
+- program of list comprehension of even square numbers
+- program to understand the split() function
