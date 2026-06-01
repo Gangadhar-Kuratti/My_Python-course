@@ -245,3 +245,14 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program of list comprehension of even square numbers
 - program to understand the split() function
+
+## Completed (Day_33)
+- Practice set 33 ✅
+
+## Programs
+- program to count the vowels in a entered string
+- program to print the sum of even numbers
+- program to print the entered character along with its index
+- program to print the factorial of number
+- program to count the even and odd number
+- program to reverse the entered string
