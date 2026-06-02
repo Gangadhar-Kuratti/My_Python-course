@@ -256,3 +256,10 @@ This repository contains My Python learning journey 🚀
 - program to print the factorial of number
 - program to count the even and odd number
 - program to reverse the entered string
+
+## Completed (Day_34)
+- Practice set 34 ✅
+
+## Programs
+- program to print the tables of entered number using function
+- program to understand the "return" function
