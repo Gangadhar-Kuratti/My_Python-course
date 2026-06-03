@@ -263,3 +263,10 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to print the tables of entered number using function
 - program to understand the "return" function
+
+## Completed (Day_33)
+- Practice set 35 ✅
+
+## Programs
+- program to understand the local and global variables in functions
+- program to understand the default parameters in functions
