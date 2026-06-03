@@ -264,7 +264,7 @@ This repository contains My Python learning journey 🚀
 - program to print the tables of entered number using function
 - program to understand the "return" function
 
-## Completed (Day_33)
+## Completed (Day_35)
 - Practice set 35 ✅
 
 ## Programs
