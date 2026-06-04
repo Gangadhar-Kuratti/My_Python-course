@@ -270,3 +270,15 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to understand the local and global variables in functions
 - program to understand the default parameters in functions
+
+## Completed (Day_36)
+- Practice set 36 ✅
+
+## Programs
+- program to understand the keyword argumentsin function
+- program to understand the variable length argument
+- program to understand the kwargs
+- program to understand the lambda function
+- program to understand the lambda function in dictionary
+- program to understand the recursive function
+- program to understand the nested functions
