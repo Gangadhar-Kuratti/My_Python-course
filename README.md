@@ -282,3 +282,13 @@ This repository contains My Python learning journey 🚀
 - program to understand the lambda function in dictionary
 - program to understand the recursive function
 - program to understand the nested functions
+
+## Completed (Day_37)
+- Practice set 37 ✅
+
+## Programs
+- program to print the numbers  from 1-5
+- program to print the square of a number
+- program to print the sum of two numbers
+- program to print the length of a string
+- program to print the sum of numbers using return type
