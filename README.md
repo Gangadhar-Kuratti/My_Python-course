@@ -292,3 +292,11 @@ This repository contains My Python learning journey 🚀
 - program to print the sum of two numbers
 - program to print the length of a string
 - program to print the sum of numbers using return type
+
+## Completed (Day_38)
+- Practice set 38 ✅
+
+## Programs 
+- program to return the largest of two numbers
+- program to return whether a number is evan or odd
+- program to reverse the string
