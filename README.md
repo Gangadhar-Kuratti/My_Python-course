@@ -300,3 +300,11 @@ This repository contains My Python learning journey 🚀
 - program to return the largest of two numbers
 - program to return whether a number is evan or odd
 - program to reverse the string
+
+## Completed (Day_39)
+- Practice set 39 ✅
+
+## Programs
+- program to print the multiplication table using function
+- program to find the factorial of a number
+- program to count the vowels in a string
