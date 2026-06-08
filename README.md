@@ -308,3 +308,11 @@ This repository contains My Python learning journey 🚀
 - program to print the multiplication table using function
 - program to find the factorial of a number
 - program to count the vowels in a string
+
+## Completed Day_40)
+- Practice set 40 ✅
+
+## Programs
+- program to count the digits
+- prgram to find the largest of three numbers
+- program to count the upper characters
