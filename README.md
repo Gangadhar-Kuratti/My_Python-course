@@ -316,3 +316,10 @@ This repository contains My Python learning journey 🚀
 - program to count the digits
 - prgram to find the largest of three numbers
 - program to count the upper characters
+
+## Completed (Day_41)
+- Practice set 41 ✅
+
+## Programs
+- program to count the even numbers
+- program to check pallindrome or not
