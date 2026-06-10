@@ -323,3 +323,9 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to count the even numbers
 - program to check pallindrome or not
+
+## Completed (Day_42)
+- Practice set 42 ✅
+
+## Program
+- program to print the smallest number in the list using function
