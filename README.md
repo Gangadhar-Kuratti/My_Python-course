@@ -329,3 +329,10 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to print the smallest number in the list using function
+
+## Completed (Day_43)
+- Practice set 43 ✅
+
+## Programs
+- program to understand the global() keyword
+- program to understand the identity operator
