@@ -336,3 +336,9 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to understand the global() keyword
 - program to understand the identity operator
+
+## Completed (Day_44)
+- Practice set 44 ✅
+
+## Programs
+- program for ATM Withdrawal Operation Using Exception Handling
