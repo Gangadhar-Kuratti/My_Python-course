@@ -342,3 +342,9 @@ This repository contains My Python learning journey 🚀
 
 ## Programs
 - program for ATM Withdrawal Operation Using Exception Handling
+
+## Completed (Day_45)
+- Practice set 45 ✅
+
+## Programs
+- program to understnd the nested function
