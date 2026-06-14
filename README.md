@@ -348,3 +348,10 @@ This repository contains My Python learning journey 🚀
 
 ## Programs
 - program to understnd the nested function
+
+## Completed (Day_46)
+- Practice set 46 ✅
+
+## Programs
+- program to understand the varible length arguments
+- program to understand the keyword arguments
