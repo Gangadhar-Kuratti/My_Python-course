@@ -355,3 +355,10 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to understand the varible length arguments
 - program to understand the keyword arguments
+
+## Completed (Day_47)
+- Practice set 47 ✅
+
+## Programs
+- program to count the odd numbers using functions
+- program to count the add numbers using return funtion
