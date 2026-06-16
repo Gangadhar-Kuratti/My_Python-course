@@ -362,3 +362,10 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to count the odd numbers using functions
 - program to count the add numbers using return funtion
+
+## Completed (Day_48)
+- Practice set 48 ✅
+
+## Programs
+- program to count the words in sentence
+- program to count the words in sentence using return()
