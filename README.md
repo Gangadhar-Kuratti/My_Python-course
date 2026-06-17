@@ -369,3 +369,9 @@ This repository contains My Python learning journey 🚀
 ## Programs
 - program to count the words in sentence
 - program to count the words in sentence using return()
+
+## Completed (Day_49)
+- Practice set 49 ✅
+
+## Program
+- Program to detect and count the spaces in string
