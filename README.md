@@ -375,3 +375,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - Program to detect and count the spaces in string
+
+## Completed (Day_50)
+- Practice set 50 ✅
+
+## Program
+- program to print the second largest number
