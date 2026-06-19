@@ -381,3 +381,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to print the second largest number
+
+## Completed (Day_51)
+- Practice set 51 ✅
+
+## Program
+- program to count the alphabets digits and special characters using functions
