@@ -387,3 +387,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to count the alphabets digits and special characters using functions
+
+## Completed (Day_52)
+- practice set 52 ✅
+
+- ## Program
+- program to print the longest word in entered string
