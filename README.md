@@ -393,3 +393,9 @@ This repository contains My Python learning journey 🚀
 
 - ## Program
 - program to print the longest word in entered string
+
+## Completed (Day_53)
+- Practice set 53 ✅
+
+## Program
+- program to count the appearence of a character in text entered
