@@ -399,3 +399,15 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to count the appearence of a character in text entered
+
+## Completed (Day_54)
+- Practice set 54 ✅
+
+## Programs
+- python program to demonstrate different datatypes
+- python program to perform different arithmetic operations on numbers
+- program to create concatinate print string and access substring
+- script to print the current date
+- program to find the factorial of a number
+- Program to print the fibonacci series
+- program to check whether a number is pallindrome or not
