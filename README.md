@@ -417,3 +417,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program for student management system
+
+## Completed (Day_56)
+- Practice set 56 ✅
+
+## Program
+- python script to print the local time
