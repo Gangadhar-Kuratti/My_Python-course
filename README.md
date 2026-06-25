@@ -423,3 +423,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - python script to print the local time
+
+## Completed (Day_57)
+- Practice set 57 ✅
+
+## Program
+- program for different shapes using tkinter
