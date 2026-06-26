@@ -429,3 +429,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program for different shapes using tkinter
+
+## Completed (Day_58)
+- Practice set 58 ✅
+
+## Program
+- program for student scholarship application
