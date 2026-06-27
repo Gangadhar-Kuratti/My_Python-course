@@ -435,3 +435,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program for student scholarship application
+
+## Completed (Day_59)
+- Practice set 59 ✅
+
+## Program
+- program to check the string whether it is pallindromw or not
