@@ -441,3 +441,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to check the string whether it is pallindromw or not
+
+## Completed (Day_60)
+- Practice set 60 ✅
+
+## Program
+- Program for Daily Temperature Record System using Array Indexing and Slicing
