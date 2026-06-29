@@ -447,3 +447,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - Program for Daily Temperature Record System using Array Indexing and Slicing
+
+## Completed (Day_61)
+- Practice set 61 ✅
+
+## Program
+- Open a file in write and binary mode
