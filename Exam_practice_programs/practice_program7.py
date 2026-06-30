@@ -3,5 +3,3 @@ f1=open("Sample.jpg","rb")
 f2=open("new.jpg","wb") 
 bytes=f1.read() 
 f2.write(bytes) 
-git pull origin main
-git add practf2.close() 
