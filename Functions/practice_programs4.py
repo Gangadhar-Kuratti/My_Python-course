@@ -1,4 +1,4 @@
-# program to print the multiplication table usong function
+# program to print the multiplication table using function
 
 def table(num):
     for i in range(1,11):
