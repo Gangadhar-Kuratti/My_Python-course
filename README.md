@@ -453,3 +453,10 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - Open a file in write and binary mode
+
+## Completed (Day_62)
+- Practice set 62 ✅
+
+## Program
+- Write text to a file
+- Read text from file
