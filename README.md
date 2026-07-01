@@ -460,3 +460,9 @@ This repository contains My Python learning journey 🚀
 ## Program
 - Write text to a file
 - Read text from file
+
+## Completed (Day_63)
+- Practice set 63 ✅
+
+## Program
+- program for class and object
