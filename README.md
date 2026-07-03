@@ -466,3 +466,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program for class and object
+
+## Completed (Day_64)
+- Practice set 64 ✅
+
+## Program
+- practice programof object and class
