@@ -472,3 +472,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - practice programof object and class
+
+## Completed (Day_65)
+- Practice set 65 ✅
+
+## Program
+- Hello world using oop object and class
