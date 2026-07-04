@@ -478,3 +478,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - Hello world using oop object and class
+
+## Completed (Day_66)
+- Practice set 66 ✅
+
+## Program
+- Database program to understand the encapsulation
