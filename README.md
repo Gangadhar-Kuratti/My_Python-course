@@ -484,3 +484,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - Database program to understand the encapsulation
+
+## Completed (Day 67)
+- Practice set 67 ✅
+
+## Program
+- banking program to understand the encapsulation
