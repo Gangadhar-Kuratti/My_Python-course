@@ -490,3 +490,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - banking program to understand the encapsulation
+
+## Completed (Day_68)
+- Practice set 68 ✅
+
+## Program
+- program to understand the inheritance
