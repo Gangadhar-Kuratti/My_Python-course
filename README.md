@@ -496,3 +496,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand the inheritance
+
+## Completed (Day_69)
+- Practice set 69 ✅
+
+## Program
+- program to understand the get set keywords
