@@ -502,3 +502,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand the get set keywords
+
+## Completed (Day_70)
+- Practice set 70 ✅
+
+## Program
+- program to understand the methods 
