@@ -508,3 +508,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand the methods 
+
+## Completed (Day_71)
+- Practice set 71 ✅
+
+## Program
+- program to understand the abstraction
