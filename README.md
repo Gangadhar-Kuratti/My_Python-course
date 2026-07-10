@@ -514,3 +514,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand the abstraction
+
+## Completed (Day_72)
+- Practice set 72 ✅
+
+## Program
+- program to understand encapsulation
