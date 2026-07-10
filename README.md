@@ -1,4 +1,4 @@
-# Python Practice by GANGADHAR.
+# Python Practice by GANGADHAR
 
 This repository contains My Python learning journey 🚀
 
