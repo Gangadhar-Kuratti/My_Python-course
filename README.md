@@ -520,3 +520,11 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to understand encapsulation
+
+## Completed (Day_73)
+- Practice set 73 ✅
+
+## Program
+- program for single inheritance
+- program for multi-level inheritance
+- program for multiple inheritance
