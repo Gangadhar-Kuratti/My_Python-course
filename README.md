@@ -528,3 +528,9 @@ This repository contains My Python learning journey 🚀
 - program for single inheritance
 - program for multi-level inheritance
 - program for multiple inheritance
+
+## Completed (Day_74)
+- Practice set 74 ✅
+
+## Program
+- program to create a qrcode
