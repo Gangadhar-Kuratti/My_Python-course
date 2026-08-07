@@ -534,3 +534,9 @@ This repository contains My Python learning journey 🚀
 
 ## Program
 - program to create a qrcode
+
+## Completed (Day_75)
+- Practice set 75 ✅
+
+## Program
+- Class and Object Example
