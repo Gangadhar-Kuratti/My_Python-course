@@ -542,5 +542,8 @@ This repository contains My Python learning journey 🚀
 - Class and Object Example
 
 ## Mini Projects
-- Project 01✅
+- Project 01 ✅
 - Student management system
+
+- project 02 ✅
+- Student management system using oop
