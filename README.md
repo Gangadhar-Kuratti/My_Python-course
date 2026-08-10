@@ -547,3 +547,6 @@ This repository contains My Python learning journey 🚀
 
 - project 02 ✅
 - Student management system using oop
+  
+- project 03 ✅
+- Expense Trackor
