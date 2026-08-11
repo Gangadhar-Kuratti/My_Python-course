@@ -550,3 +550,6 @@ This repository contains My Python learning journey 🚀
   
 - project 03 ✅
 - Expense Trackor
+  
+- project 04 ✅
+- Password Generator
