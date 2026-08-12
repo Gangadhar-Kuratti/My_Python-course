@@ -553,3 +553,6 @@ This repository contains My Python learning journey 🚀
   
 - project 04 ✅
 - Password Generator
+
+- project 05 ✅
+- Password strength checker
