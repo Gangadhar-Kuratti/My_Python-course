@@ -556,3 +556,6 @@ This repository contains My Python learning journey 🚀
 
 - project 05 ✅
 - Password strength checker
+
+- project 06 ✅
+- Contact Book
