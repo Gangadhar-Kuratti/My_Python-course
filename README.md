@@ -559,3 +559,6 @@ This repository contains My Python learning journey 🚀
 
 - project 06 ✅
 - Contact Book
+
+- project 07 ✅
+- Library Management System
