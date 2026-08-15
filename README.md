@@ -562,3 +562,7 @@ This repository contains My Python learning journey 🚀
 
 - project 07 ✅
 - Library Management System
+
+- project 08 ✅
+- Quiz Application System
+
