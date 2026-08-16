@@ -566,3 +566,6 @@ This repository contains My Python learning journey 🚀
 - project 08 ✅
 - Quiz Application System
 
+- project 09 ✅
+- To Do Application
+
