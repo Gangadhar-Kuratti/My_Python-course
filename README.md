@@ -569,3 +569,6 @@ This repository contains My Python learning journey 🚀
 - project 09 ✅
 - To Do Application
 
+- project 10 ✅
+- Banking System
+
